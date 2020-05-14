@@ -65,7 +65,7 @@
 			margin-top: 2%
 		}
 		.logo{
-			font-size: 40px;
+			font-size: 30px;
 			margin-left:90px;
 			}
 
