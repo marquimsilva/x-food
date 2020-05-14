@@ -88,6 +88,10 @@
 			margin-top:30px;
 			border-radius: 10px ;}
 		
+		h4{
+			margin-left:150px;
+		}
+		
 	</style>
 
 
@@ -106,7 +110,8 @@
 					<input type="email" placeholder="   Exemplo@gmail.com"></input>
 					<h3>Senha</h3>
 					<input type="password" placeholder="   Senha"></input>
-					<h3></h3>
+					<h4><a href="login.html">Já sou cadastrado</a></h4>
+
 					<input type="submit" value="ENTRAR"></input>
 				</form>
 		</form>
